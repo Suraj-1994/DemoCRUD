@@ -1,0 +1,11 @@
+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çúêÁûÿÿÿÿ8—»•¿ç,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò±ç§ıÿÿÿÿ8¥ƒË½ç,
+msquid:S1192"LDefine a constant instead of duplicating this literal "studentList" 5 times.(úÛÏªşÿÿÿÿ8¢ÆÀ¾ç,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ø‹Ûüÿÿÿÿ8¥ƒË½ç,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øßÙ³8¥ƒË½ç,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ¦íĞøÿÿÿÿ8¥ƒË½ç,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ˆÛ8‹ã•¿ç,
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8¥ƒË½ç,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ƒË½ç,
